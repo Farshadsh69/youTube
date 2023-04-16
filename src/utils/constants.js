@@ -40,3 +40,4 @@ export const demoThumbnailTitle = "JavaScript Mastery";
 export const demoChannelTitle = "JavaScript Mastery";
 export const demoVideoTitle =
   "Build and Deploy 5 JavaScript & React API Projects in 10 Hours - FullCourse | RapidAPI";
+export const demoProfilePicture = "https://i.ibb.co/G2L2Gwp/API-Course.png";
