@@ -36,6 +36,12 @@ a {
   outline: none;
   width: 350px;
 }
+.search-bar{
+  border: none;
+  outline: none;
+
+}
+
 .category-btn {
   font-weight: bold !important;
   text-transform: capitalize;
